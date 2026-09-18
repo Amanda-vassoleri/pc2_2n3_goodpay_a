@@ -1,6 +1,6 @@
-Nesta aplicação Vamos utilizar, Javascript e Hmtl com projetos em Node. # 🌱 Good Pay - Plataforma de Conversão de Créditos ESG em Cashback
+# 🌱 Good Pay - Plataforma de Conversão de Créditos ESG em Cashback
 
-# Victor Icoma - Desenvolvedor na Etec Sylvio de Mattos Carvalho
+# Victor Sena Icoma - Desenvolvedor na Etec Sylvio de Mattos Carvalho
 
 Bem-vindo ao repositório do projeto **Good Pay**, uma aplicação web educacional desenvolvida para praticarmos e consolidarmos conhecimentos de **HTML**, **CSS**, **JavaScript**, além de técnicas modernas de **deploy com Firebase Hosting**, **autenticação com Firebase Authentication** e **banco de dados com Firestore**.
 
@@ -43,8 +43,10 @@ Criar uma aplicação funcional de conversão de créditos ESG (ambientais, soci
 ## 📁 Estrutura de Pastas
 
 
-
+## Logo Classico
 ![GoodPay](https://user-images.githubusercontent.com/31005408/178034510-400bc31a-2829-4584-b5e3-fbb78c8fc3e3.png)
+## Logo Claro
+<img width="500" height="500" alt="logo_claro" src="https://github.com/user-attachments/assets/6e1e478e-d344-43d9-8432-b4c493acf8bb" />
 
 ## Tecnologias
 [![Generic badge](https://img.shields.io/badge/FRONTDEV-BOOTSTRAP-<COLOR>.svg)](https://shields.io/) [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) [![Generic badge](https://img.shields.io/badge/SOULCODE-RN1-<COLOR>.svg)](https://shields.io/) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
@@ -65,3 +67,15 @@ Criar uma aplicação funcional de conversão de créditos ESG (ambientais, soci
 ![6](https://user-images.githubusercontent.com/31005408/178036113-69538ac1-b5c2-4897-b1c7-2bee739455e3.png)
 ![7](https://user-images.githubusercontent.com/31005408/178036126-203ad1bd-0efb-4d2e-9d3b-76db3534fbba.png)
 ![8](https://user-images.githubusercontent.com/31005408/178036133-345177aa-3e03-4866-8843-721f7e266ea0.png)
+
+<img width="750" height="350" alt="goodpay" src="https://github.com/user-attachments/assets/e9dd5407-8ab6-4d90-8f7f-02df2ec90def" />
+
+## Material de Background
+<img width="5000" height="4444" alt="fundo_gp_2" src="https://github.com/user-attachments/assets/3d6f4a97-6b88-47ca-9c87-d71a983a901f" />
+<img width="2161" height="2161" alt="fundo_gp_1" src="https://github.com/user-attachments/assets/7a808740-3706-4af8-b91c-871b506ffbd8" />
+
+## Letreiros de Menu
+<img width="627" height="115" alt="letreiro-preto" src="https://github.com/user-attachments/assets/9854a30a-da2c-4a44-a4b2-a2cc85fafb3e" />
+<img width="629" height="109" alt="letreiro-claro" src="https://github.com/user-attachments/assets/d7fa5c42-cf48-46d8-9724-42ce6ad89a1c" />
+
+
