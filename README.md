@@ -78,4 +78,17 @@ Criar uma aplicação funcional de conversão de créditos ESG (ambientais, soci
 <img width="627" height="115" alt="letreiro-preto" src="https://github.com/user-attachments/assets/9854a30a-da2c-4a44-a4b2-a2cc85fafb3e" />
 <img width="629" height="109" alt="letreiro-claro" src="https://github.com/user-attachments/assets/d7fa5c42-cf48-46d8-9724-42ce6ad89a1c" />
 
+# Textos Promocionais
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/38ba4b03-db56-4556-940c-b64600856dbe" />
+
+# Textos Proporcionais - GoodPay
+
+Abaixo está a tabela com os títulos e textos desenvolvidos para manter um volume de leitura equilibrado e harmonioso no layout, com aproximadamente 550 caracteres por bloco de texto.
+
+| Título do Parágrafo | Texto Proporcional | Caracteres (Aprox.) |
+| :--- | :--- | :---: |
+| **Planeje Hoje, Colha Amanhã: O Poder dos Juros** | Começar a investir cedo é o segredo para construir um futuro financeiro sólido. Com o GoodPay, você pode criar um plano de investimento proporcional aos seus objetivos de longo prazo. O tempo é seu maior aliado quando se trata de juros compostos; cada pequeno valor economizado e investido de forma consistente cresce exponencialmente ao longo das décadas. Visualize seus sonhos se tornando realidade: uma aposentadoria tranquila, a compra de um imóvel ou a educação dos filhos. A chave principal é a disciplina de poupar regularmente. | 545 |
+| **Economia Inteligente: Transforme Pequenas Atitudes** | Economizar dinheiro não significa privação, mas sim escolhas conscientes. Analise seus hábitos de consumo diários e identifique oportunidades para cortar gastos desnecessários. Peça descontos, compare preços e evite compras por impulso. O GoodPay oferece ferramentas para rastrear suas despesas e criar orçamentos personalizados, ajudando você a visualizar para onde seu dinheiro está indo. Cada real poupado com inteligência pode ser direcionado para uma reserva de emergência ou para um fundo de investimento focado no seu longo prazo. | 548 |
+| **Diversifique para Crescer: Proteja seu Patrimônio** | Para investidores experientes ou iniciantes, a diversificação é fundamental para gerenciar riscos. Ao distribuir seu capital entre diferentes classes de ativos, como ações, renda fixa e fundos imobiliários, você reduz a exposição à volatilidade de um único mercado. O GoodPay ajuda a analisar seu portfólio de forma proporcional e identificar oportunidades alinhadas ao seu perfil de risco. Entenda como cada ativo se comporta em diferentes cenários econômicos e rebalanceie sua carteira periodicamente para garantir e proteger seus lucros reais. | 550 |
+| **Segurança Financeira: Estabeleça sua Reserva Base** | A base de uma vida financeira saudável é uma reserva de emergência robusta, equivalente a pelo menos três a seis meses de suas despesas essenciais. Este fundo serve como proteção contra imprevistos, como desemprego, despesas médicas ou reparos urgentes. O GoodPay oferece recursos para ajudá-lo a automatizar suas economias e atingir essa meta de forma progressiva. Ter essa segurança permite que você navegue por momentos difíceis com menos estresse e continue focando em seus objetivos de longo prazo com muito mais paz de espírito e foco. | 549 |
 
