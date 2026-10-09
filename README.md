@@ -105,18 +105,16 @@ Abaixo estão os nove textos desenvolvidos para as campanhas, todos ajustados pa
 
 # Equipe de Devs:
 <hr>
-## Amandys
-<img width="720" height="1600" alt="amds" src="https://github.com/user-attachments/assets/103eba49-8c73-4d91-a650-b2c7d3b165c2" />
-<hr>
-## Ana Padilha
-<img width="2448" height="3264" alt="ana" src="https://github.com/user-attachments/assets/b1766642-423e-408d-9912-15b54fca3d82" />
-<hr>
-## Alão
-<img width="1980" height="2640" alt="Alão" src="https://github.com/user-attachments/assets/7c491088-e24f-4283-8e89-7cfdc13015e9" />
-<hr>
-## Calebe
-<img width="501" height="546" alt="calebe" src="https://github.com/user-attachments/assets/281d39e3-abc1-4bcd-bf27-c4c63445972c" />
-<hr>
+<img width="1664" height="2560" alt="amandys" src="https://github.com/user-attachments/assets/a79a1ae5-237c-4866-8598-eedae302eb07" />
+<img width="1664" height="2560" alt="Alao" src="https://github.com/user-attachments/assets/add8faf7-e1f9-4642-a3fb-eedfcc6bf9aa" />
+<img width="1664" height="2560" alt="Thiery" src="https://github.com/user-attachments/assets/915f3435-7707-47fe-ad00-32d2b79c719e" />
+<img width="1664" height="2560" alt="matheus" src="https://github.com/user-attachments/assets/1285452b-b8e8-464f-8732-4cc13f0e7c58" />
+<img width="1664" height="2560" alt="Gabs" src="https://github.com/user-attachments/assets/54029b8c-191c-46d9-9db6-cdd2e4e26dca" />
+<img width="1664" height="2560" alt="eduardo" src="https://github.com/user-attachments/assets/76a39350-03f4-49de-92cc-5424f5527b0d" />
+<img width="1664" height="2560" alt="calebe" src="https://github.com/user-attachments/assets/b0b21f43-717d-4d1c-b5bb-ef96690a1ea4" />
+<img width="1664" height="2560" alt="bueno" src="https://github.com/user-attachments/assets/4f2f54d2-01f5-4da4-91b2-c60e1a12b387" />
+<img width="1664" height="2560" alt="Ana" src="https://github.com/user-attachments/assets/27d8fcee-53c1-47cd-817b-95b710a2991f" />
+
 ## Edu
 <img width="688" height="913" alt="edu" src="https://github.com/user-attachments/assets/de7ef713-e7ab-4697-b2c4-19ed2201b6a2" />
 ## Gabys 
