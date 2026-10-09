@@ -114,10 +114,9 @@ Abaixo estão os nove textos desenvolvidos para as campanhas, todos ajustados pa
 <img width="1664" height="2560" alt="calebe" src="https://github.com/user-attachments/assets/b0b21f43-717d-4d1c-b5bb-ef96690a1ea4" />
 <img width="1664" height="2560" alt="bueno" src="https://github.com/user-attachments/assets/4f2f54d2-01f5-4da4-91b2-c60e1a12b387" />
 <img width="1664" height="2560" alt="Ana" src="https://github.com/user-attachments/assets/27d8fcee-53c1-47cd-817b-95b710a2991f" />
-
-## Edu
 <img width="688" height="913" alt="edu" src="https://github.com/user-attachments/assets/de7ef713-e7ab-4697-b2c4-19ed2201b6a2" />
-## Gabys 
 <img width="1704" height="1575" alt="gabs" src="https://github.com/user-attachments/assets/561992d7-3ff5-4b68-8890-48c85b6cea13" />
+<img width="1664" height="2560" alt="carlos" src="https://github.com/user-attachments/assets/08445129-84b9-4834-833b-af6eb09c04bd" />
+
 
 
