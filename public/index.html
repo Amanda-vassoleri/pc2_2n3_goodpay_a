@@ -66,39 +66,23 @@
                                 aria-label="Close"></button>
                         </div>
                         <div class="offcanvas-body">
-                            <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
-                                <li class="nav-item">
-                                    <a class="nav-link active" aria-current="page" href="#">Pagina Inicial</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="#">Sobre Nós</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="#">Promoções</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="#">Regras</a>
-                                </li>
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                                        aria-expanded="false">
-                                        Sua Conta
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item" href="#">Minha Conta</a></li>
-                                        <li><a class="dropdown-item" href="#">Carteira Digital</a></li>
-                                        <li>
-                                            <hr class="dropdown-divider">
-                                        </li>
-                                        <li><a class="dropdown-item" href="#">Entrar na Conta</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                            <form class="d-flex mt-3" role="search">
-                                <input class="form-control me-2" type="search" placeholder="Buscar na Plataforma"
-                                    aria-label="Search" />
-                                <button class="btn btn-outline-success" type="submit">Buscar</button>
-                            </form>
+                            <hr>
+                            <div>
+                                <div class="input-group mb-3">
+                                    <span class="input-group-text" id="inputGroup-sizing-default">Email</span>
+                                    <input type="email" class="form-control" aria-label="Sizing example input"
+                                        aria-describedby="inputGroup-sizing-default" id="emailLogin">
+                                </div>
+                                <div class="input-group mb-3">
+                                    <span class="input-group-text" id="inputGroup-sizing-default">Senha</span>
+                                    <input type="password" class="form-control" aria-label="Sizing example input"
+                                        aria-describedby="inputGroup-sizing-default" id="senhaLogin">
+                                </div>
+                                <div class="d-grid gap-2">
+                                    <button class="btn btn-success" type="button" onclick="initializeLogin()">Login</button>
+                                    <button class="btn btn-outline-success" type="button">Cadastrar</button>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -544,6 +528,7 @@
         </section>
     </main>
     <footer>
+        <script src="./engine/index.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
             integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
             crossorigin="anonymous"></script>
