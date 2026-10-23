@@ -23,6 +23,10 @@ async function initializeLogin() {
     }
 }
 
-async function storageUsersInfo(User) {
+async function storageUsersInfo() {
+    user = localStorage.getItem('usuarioAtual')
 
+    document.getElementById('saldo_conta').innerText = `Saldo de ${user.name}`
+    document.getElementById('trans_conta').innerText = `Conta: ${user.id}`
+    document.getElementById('cash_conta').innerText = `R$ ${user.name}` 
 }
