@@ -3,24 +3,24 @@
         "id": 1,
         "name": "victoricoma",
         "email": "victoricoma@icoma.com.br",
-        "password": "123456"
+        "senha": "123456"
     },
     {
         "id": 2,
         "name": "lekaicoma",
         "email": "lekaicoma@icoma.com.br",
-        "password": "856923"
+        "senha": "856923"
     },
     {
         "id": 3,
         "name": "anaicoma",
         "email": "anaicoma@icoma.com.br",
-        "password": "083309"
+        "senha": "083309"
     },
     {
         "id": 4,
         "name": "victoribatista",
         "email": "victoribatista@icoma.com.br",
-        "password": "445566"
+        "senha": "445566"
     }
 ]
